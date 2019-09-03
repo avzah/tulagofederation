@@ -1,0 +1,4 @@
+blog/migrations
+.pytest_cache
+blog/__pycache__
+__pycache__
